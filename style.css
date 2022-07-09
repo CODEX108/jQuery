@@ -1,0 +1,13 @@
+body{
+    background-color: cadetblue;
+}
+
+.big-title{
+    color: yellowgreen;
+    font-style:italic;
+    
+}
+
+.margin-50{
+    margin: 50px;
+}
